@@ -20,7 +20,7 @@ Create a new project in Google cloud console.
 ## Creating Eclipse Project
 ![screenshot](Screenshots/ss10.PNG)
 ![screenshot](Screenshots/ss11.PNG)
-![screenshot](Screenshots/ss12.PNG)
+![screenshot](Screenshots/ss12.png)
 
 Create jsp application pages and corresponding servlets.
 HelloAppEngine.java: The main application that handels Servlets doGet requests and responses.
